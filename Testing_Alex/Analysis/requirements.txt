@@ -1,0 +1,16 @@
+# Spotify Typicality Analysis - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core data processing
+numpy>=1.24.0
+pandas>=2.0.0
+tables>=3.8.0          # PyTables for HDF5 support
+
+# Machine learning & statistics
+scikit-learn>=1.3.0
+scipy>=1.10.0
+statsmodels>=0.14.0    # For regression summaries
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0

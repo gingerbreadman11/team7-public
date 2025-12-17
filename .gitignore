@@ -1,0 +1,25 @@
+Data_Spotify
+.DS_Store
+Data/
+results_test/
+results/
+exploration_results/
+__pycache__/
+Testing_Alex/Analysis/__pycache__/popularity_analysis_streaming.cpython-312.pyc
+*.cpython-312.pyc
+results_temporal/
+results_dedup/
+results_feature_dedup/
+figures/
+results_large/
+plans/
+
+# Large files
+*.pkl
+*.csv
+
+# System and Python files
+.DS_Store
+__pycache__/
+*.pyc
+*.cpython-312.pyc
